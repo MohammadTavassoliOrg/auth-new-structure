@@ -1,0 +1,8 @@
+{
+    "name": "new-structure-Express",
+    "db": {
+        "address": "db address"
+    },
+    "PORT": 3000,
+    "jwtPrivateKey": ""
+}
